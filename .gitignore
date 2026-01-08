@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Manual exclusions
+ConfigureMe.sln
+GamePaths.xml
