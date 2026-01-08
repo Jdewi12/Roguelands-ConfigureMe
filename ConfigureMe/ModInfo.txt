@@ -1,0 +1,1 @@
+Allows you to configure a bunch of things such as game speed, damage taken scaling, and status effects received.
